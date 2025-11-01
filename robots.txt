@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /brands/
+Allow: /gallery/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Crawl-delay: 1
+
+# XML Sitemap
+Sitemap: https://srikumar.com/sitemap.xml
